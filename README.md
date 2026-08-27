@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Giovanni Carezzato</h1>
+<h1 align="center">Olá, me chamo Giovanni Carezzato</h1>
 
   <p align="center">
-    Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Fatec Mogi das Cruzes</strong><br>
+    Estudante de Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes
     Em busca da primeira oportunidade como <strong>Desenvolvedor de Software</strong>
   </p>
 
@@ -9,10 +9,10 @@
 
   ### Sobre mim
 
-  - Cursando **Análise e Desenvolvimento de Sistemas** na **Fatec Mogi das Cruzes**
+  - Cursando Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes
   - Aprendendo e praticando desenvolvimento de software todos os dias
   - Foco em melhorar skills de desenvolvimento, requisitos de negócios e aplicação prática de projetos
-  - Aberto a oportunidades de **estágio / júnior** na área de desenvolvimento
+  - Aberto a oportunidades de Estágio / Júnior na área de desenvolvimento
 
   ---
 
@@ -31,17 +31,12 @@
   
   ### Certificações
 
-<div style="display: inline_block">
-    <a href="https://www.credly.com/earner/earned/badge/9ae3fb11-2303-452e-a489-4756471140ec"><img align="center" alt="AWS Certified
-  Cloud Practitioner" height="80" width="80"
+  <div style="display: inline_block">
+    <a href="https://www.credly.com/earner/earned/badge/6616eafe-bc89-4722-9a24-504d7754c8b1" target="_blank" rel="noopener
+  noreferrer"><img align="center" alt="AWS Certified Cloud Practitioner" height="80" width="80"
   src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
-    <a href="https://www.credly.com/earner/earned/badge/431a22de-ea02-438d-b0f0-f2e713898307"><img align="center" alt="Cloud
-  Practitioner" height="80" width="80"
-  src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
   </div>
 
-  - **AWS Certified Cloud Practitioner** — Amazon Web Services
-  - **Demo DataDog** — Datadog
 
   ---
 
