@@ -11,7 +11,7 @@
 
   - Cursando **Análise e Desenvolvimento de Sistemas** na **Fatec Mogi das Cruzes**
   - Aprendendo e praticando desenvolvimento de software todos os dias
-  - Foco em melhorar skills de desenvolvimento, requisitos de negócios e aplicação prática de projetos em desenvolvimento
+  - Foco em melhorar skills de desenvolvimento, requisitos de negócios e aplicação prática de projetos
   - Aberto a oportunidades de **estágio / júnior** na área de desenvolvimento
 
   ---
