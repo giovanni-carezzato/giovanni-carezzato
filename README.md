@@ -1,4 +1,4 @@
- <h1 align="center">Olá, eu sou o Giovanni Carezzato</h1>
+<h1 align="center">Olá, eu sou o Giovanni Carezzato</h1>
 
   <p align="center">
     Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Fatec Mogi das Cruzes</strong><br>
@@ -13,7 +13,17 @@
   - Aprendendo e praticando desenvolvimento de software todos os dias
   - Foco em construir aplicações limpas, funcionais e bem estruturadas
   - Aberto a oportunidades de **estágio / júnior** na área de desenvolvimento
-  - Como me encontrar: [LinkedIn](https://www.linkedin.com/in/giovanni-carezzato-2a4985326/) • `seu-email@exemplo.com`
+
+  ---
+
+  ### Onde me encontrar
+
+  <p align="left">
+    <a href="https://www.linkedin.com/in/giovanni-carezzato-2a4985326/" target="_blank">
+      <img src="https://img.shields.io/badge/Esse%20%C3%A9%20meu%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn" />
+    </a>
+  </p>
 
   ---
 
